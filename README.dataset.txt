@@ -1,7 +1,6 @@
-# IPD Pothole Detection > 2025-05-22 1:12am
-https://universe.roboflow.com/krishneel/ipd-pothole-detection-kshyq
+# My First Project > 2025-05-22 12:41pm
+https://universe.roboflow.com/potholedetector-rksfu/my-first-project-vfbqi
 
 Provided by a Roboflow user
 License: CC BY 4.0
 
-IPD project by Atharv Patawar, Bhaumik Kore and Mohammed Mehdi

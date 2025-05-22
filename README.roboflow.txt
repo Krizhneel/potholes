@@ -1,8 +1,8 @@
 
-IPD Pothole Detection - v4 2025-05-22 1:12am
+My First Project - v1 2025-05-22 12:41pm
 ==============================
 
-This dataset was exported via roboflow.com on May 21, 2025 at 1:12 PM GMT
+This dataset was exported via roboflow.com on May 22, 2025 at 12:42 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,8 +17,8 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 481 images.
-Potholes are annotated in YOLOv8 format.
+The dataset includes 483 images.
+Objects are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:
 

@@ -3,11 +3,11 @@ val: ../valid/images
 test: ../test/images
 
 nc: 1
-names: ['pothole']
+names: ['Pothole']
 
 roboflow:
-  workspace: krishneel
-  project: ipd-pothole-detection-kshyq
-  version: 4
+  workspace: potholedetector-rksfu
+  project: my-first-project-vfbqi
+  version: 1
   license: CC BY 4.0
-  url: https://universe.roboflow.com/krishneel/ipd-pothole-detection-kshyq/dataset/4
+  url: https://universe.roboflow.com/potholedetector-rksfu/my-first-project-vfbqi/dataset/1
