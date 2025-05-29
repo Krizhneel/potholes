@@ -51,3 +51,9 @@ To run the code, use:
 python pothole_detector.py
 
 *** Make user to change the path of images abd model to your path. ***
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+RESULTS FOLDER
+
+Contains some test runs using the model.
