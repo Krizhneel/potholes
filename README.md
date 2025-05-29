@@ -1,5 +1,5 @@
 The datatset have been marked and generated from Roboflow.
-TO run this dataset using YOLO - Use this code:
+To run this dataset using YOLO - Use this code:
 
 !yolo task=detect mode=train \
     model=yolov8l.pt \
@@ -27,5 +27,27 @@ TO run this dataset using YOLO - Use this code:
     name='pothole_detection_v1'  # Custom run name
 
 
-INSTALLATIONS REQUIRED:
+*** INSTALLATIONS REQUIRED ***
 !pip install ultralytics
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+DATASET AUGMENTATION FOLDER
+
+This folder contains Python codes on how the dataset were augmented to train the model.
+These codes can be run using the python code:
+
+python filename.py
+
+*** Make user to change the path of images to your path. ***
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+TEST MODEL FOLDER
+
+This folder contains a sample Model generated using YOLO and a code on how the model can be used on real time road images.
+To run the code, use:
+
+python pothole_detector.py
+
+*** Make user to change the path of images abd model to your path. ***
