@@ -45,7 +45,7 @@ python filename.py
 
 TEST MODEL FOLDER
 
-This folder contains how the a Model generated using YOLO and a code on how the model can be used on real time road images.
+This folder contains a sample Model generated using YOLO and a code on how the model can be used on real time road images.
 To run the code, use:
 
 python pothole_detector.py
